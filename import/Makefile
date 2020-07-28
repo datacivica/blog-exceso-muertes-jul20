@@ -3,7 +3,7 @@
 # Maintainers: OE
 # Copyright:   2020, Data Cívica, GPL v2 or later
 # ===============================================
-# actas-defuncion/import/Makefile
+# blog-exceso-muertes-jul20/import/Makefile
 
 .PHONY: all clean
 
