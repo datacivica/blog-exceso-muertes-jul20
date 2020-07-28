@@ -1,0 +1,186 @@
+﻿estado,mes,year,actas,cve_ent,date
+Aguascalientes,Enero,2019,810,1,2019-01
+Aguascalientes,Febrero,2019,633,1,2019-02
+Aguascalientes,Marzo,2019,613,1,2019-03
+Aguascalientes,Abril,2019,534,1,2019-04
+Aguascalientes,Mayo,2019,641,1,2019-05
+Aguascalientes,Junio,2019,518,1,2019-06
+Aguascalientes,Julio,2019,519,1,2019-07
+Aguascalientes,Agosto,2019,515,1,2019-08
+Aguascalientes,Septiembre,2019,515,1,2019-09
+Aguascalientes,Octubre,2019,542,1,2019-10
+Aguascalientes,Noviembre,2019,519,1,2019-11
+Aguascalientes,Diciembre,2019,523,1,2019-12
+Aguascalientes,Enero,2020,847,1,2020-01
+Aguascalientes,Febrero,2020,557,1,2020-02
+Aguascalientes,Marzo,2020,563,1,2020-03
+Aguascalientes,Abril,2020,390,1,2020-04
+Aguascalientes,Mayo,2020,491,1,2020-05
+Aguascalientes,Junio,2020,611,1,2020-06
+Chiapas,Enero,2019,2559,7,2019-01
+Chiapas,Febrero,2019,2078,7,2019-02
+Chiapas,Marzo,2019,2126,7,2019-03
+Chiapas,Abril,2019,2089,7,2019-04
+Chiapas,Mayo,2019,2328,7,2019-05
+Chiapas,Junio,2019,2087,7,2019-06
+Chiapas,Julio,2019,2302,7,2019-07
+Chiapas,Agosto,2019,2188,7,2019-08
+Chiapas,Septiembre,2019,2096,7,2019-09
+Chiapas,Octubre,2019,2382,7,2019-10
+Chiapas,Noviembre,2019,2424,7,2019-11
+Chiapas,Diciembre,2019,2289,7,2019-12
+Chiapas,Enero,2020,2535,7,2020-01
+Chiapas,Febrero,2020,2086,7,2020-02
+Chiapas,Marzo,2020,2140,7,2020-03
+Chiapas,Abril,2020,2191,7,2020-04
+Chiapas,Mayo,2020,3269,7,2020-05
+Chiapas,Junio,2020,7116,7,2020-06
+Chihuahua,Enero,2019,3107,8,2019-01
+Chihuahua,Febrero,2019,2331,8,2019-02
+Chihuahua,Marzo,2019,2305,8,2019-03
+Chihuahua,Abril,2019,2070,8,2019-04
+Chihuahua,Mayo,2019,2012,8,2019-05
+Chihuahua,Junio,2019,1866,8,2019-06
+Chihuahua,Julio,2019,1990,8,2019-07
+Chihuahua,Agosto,2019,2058,8,2019-08
+Chihuahua,Septiembre,2019,1930,8,2019-09
+Chihuahua,Octubre,2019,2157,8,2019-10
+Chihuahua,Noviembre,2019,2273,8,2019-11
+Chihuahua,Diciembre,2019,2101,8,2019-12
+Chihuahua,Enero,2020,2910,8,2020-01
+Chihuahua,Febrero,2020,2250,8,2020-02
+Chihuahua,Marzo,2020,2251,8,2020-03
+Chihuahua,Abril,2020,2703,8,2020-04
+Chihuahua,Mayo,2020,3332,8,2020-05
+Chihuahua,Junio,2020,2881,8,2020-06
+Oaxaca,Enero,2019,1908,20,2019-01
+Oaxaca,Febrero,2019,1512,20,2019-02
+Oaxaca,Marzo,2019,1502,20,2019-03
+Oaxaca,Abril,2019,1548,20,2019-04
+Oaxaca,Mayo,2019,1693,20,2019-05
+Oaxaca,Junio,2019,1401,20,2019-06
+Oaxaca,Julio,2019,1708,20,2019-07
+Oaxaca,Agosto,2019,1603,20,2019-08
+Oaxaca,Septiembre,2019,1489,20,2019-09
+Oaxaca,Octubre,2019,1559,20,2019-10
+Oaxaca,Noviembre,2019,1256,20,2019-11
+Oaxaca,Diciembre,2019,1392,20,2019-12
+Oaxaca,Enero,2020,1647,20,2020-01
+Oaxaca,Febrero,2020,1399,20,2020-02
+Oaxaca,Marzo,2020,1465,20,2020-03
+Oaxaca,Abril,2020,1244,20,2020-04
+Oaxaca,Mayo,2020,1202,20,2020-05
+Oaxaca,Junio,2020,1323,20,2020-06
+Querétaro,Enero,2019,1116,22,2019-01
+Querétaro,Febrero,2019,995,22,2019-02
+Querétaro,Marzo,2019,923,22,2019-03
+Querétaro,Abril,2019,860,22,2019-04
+Querétaro,Mayo,2019,924,22,2019-05
+Querétaro,Junio,2019,830,22,2019-06
+Querétaro,Julio,2019,887,22,2019-07
+Querétaro,Agosto,2019,861,22,2019-08
+Querétaro,Septiembre,2019,877,22,2019-09
+Querétaro,Octubre,2019,879,22,2019-10
+Querétaro,Noviembre,2019,969,22,2019-11
+Querétaro,Diciembre,2019,1085,22,2019-12
+Querétaro,Enero,2020,1173,22,2020-01
+Querétaro,Febrero,2020,1060,22,2020-02
+Querétaro,Marzo,2020,1000,22,2020-03
+Querétaro,Abril,2020,906,22,2020-04
+Querétaro,Mayo,2020,1066,22,2020-05
+Querétaro,Junio,2020,1158,22,2020-06
+Quintana Roo,Enero,2019,633,23,2019-01
+Quintana Roo,Febrero,2019,567,23,2019-02
+Quintana Roo,Marzo,2019,617,23,2019-03
+Quintana Roo,Abril,2019,601,23,2019-04
+Quintana Roo,Mayo,2019,607,23,2019-05
+Quintana Roo,Junio,2019,582,23,2019-06
+Quintana Roo,Julio,2019,642,23,2019-07
+Quintana Roo,Agosto,2019,658,23,2019-08
+Quintana Roo,Septiembre,2019,624,23,2019-09
+Quintana Roo,Octubre,2019,645,23,2019-10
+Quintana Roo,Noviembre,2019,638,23,2019-11
+Quintana Roo,Diciembre,2019,662,23,2019-12
+Quintana Roo,Enero,2020,649,23,2020-01
+Quintana Roo,Febrero,2020,627,23,2020-02
+Quintana Roo,Marzo,2020,552,23,2020-03
+Quintana Roo,Abril,2020,757,23,2020-04
+Quintana Roo,Mayo,2020,927,23,2020-05
+Quintana Roo,Junio,2020,878,23,2020-06
+Tlaxcala,Enero,2019,674,29,2019-01
+Tlaxcala,Febrero,2019,586,29,2019-02
+Tlaxcala,Marzo,2019,561,29,2019-03
+Tlaxcala,Abril,2019,514,29,2019-04
+Tlaxcala,Mayo,2019,525,29,2019-05
+Tlaxcala,Junio,2019,513,29,2019-06
+Tlaxcala,Julio,2019,570,29,2019-07
+Tlaxcala,Agosto,2019,493,29,2019-08
+Tlaxcala,Septiembre,2019,504,29,2019-09
+Tlaxcala,Octubre,2019,512,29,2019-10
+Tlaxcala,Noviembre,2019,566,29,2019-11
+Tlaxcala,Diciembre,2019,676,29,2019-12
+Tlaxcala,Enero,2020,680,29,2020-01
+Tlaxcala,Febrero,2020,482,29,2020-02
+Tlaxcala,Marzo,2020,522,29,2020-03
+Tlaxcala,Abril,2020,511,29,2020-04
+Tlaxcala,Mayo,2020,831,29,2020-05
+Tlaxcala,Junio,2020,536,29,2020-06
+Veracruz,Enero,2019,5396,30,2019-01
+Veracruz,Febrero,2019,4519,30,2019-02
+Veracruz,Marzo,2019,4584,30,2019-03
+Veracruz,Abril,2019,4613,30,2019-04
+Veracruz,Mayo,2019,4994,30,2019-05
+Veracruz,Junio,2019,4466,30,2019-06
+Veracruz,Julio,2019,4706,30,2019-07
+Veracruz,Agosto,2019,4728,30,2019-08
+Veracruz,Septiembre,2019,4563,30,2019-09
+Veracruz,Octubre,2019,4498,30,2019-10
+Veracruz,Noviembre,2019,4648,30,2019-11
+Veracruz,Diciembre,2019,4790,30,2019-12
+Veracruz,Enero,2020,5407,30,2020-01
+Veracruz,Febrero,2020,4489,30,2020-02
+Veracruz,Marzo,2020,4670,30,2020-03
+Veracruz,Abril,2020,4587,30,2020-04
+Veracruz,Mayo,2020,6424,30,2020-05
+Zacatecas,Enero,2019,1219,32,2019-01
+Zacatecas,Febrero,2019,992,32,2019-02
+Zacatecas,Marzo,2019,804,32,2019-03
+Zacatecas,Abril,2019,823,32,2019-04
+Zacatecas,Mayo,2019,769,32,2019-05
+Zacatecas,Junio,2019,665,32,2019-06
+Zacatecas,Julio,2019,810,32,2019-07
+Zacatecas,Agosto,2019,756,32,2019-08
+Zacatecas,Septiembre,2019,716,32,2019-09
+Zacatecas,Octubre,2019,760,32,2019-10
+Zacatecas,Noviembre,2019,849,32,2019-11
+Zacatecas,Diciembre,2019,872,32,2019-12
+Zacatecas,Enero,2020,1085,32,2020-01
+Zacatecas,Febrero,2020,937,32,2020-02
+Zacatecas,Marzo,2020,874,32,2020-03
+Zacatecas,Abril,2020,846,32,2020-04
+Zacatecas,Mayo,2020,821,32,2020-05
+Zacatecas,Junio,2020,954,32,2020-06
+Guerrero,Enero,2020,1710,12,2020-01
+Guerrero,Febrero,2020,1541,12,2020-02
+Guerrero,Marzo,2020,1314,12,2020-03
+Guerrero,Abril,2020,805,12,2020-04
+Guerrero,Mayo,2020,1315,12,2020-05
+Guerrero,Junio,2020,2566,12,2020-06
+Guerrero,Enero,2019,1831,12,2019-01
+Guerrero,Febrero,2019,1525,12,2019-02
+Guerrero,Marzo,2019,1435,12,2019-03
+Guerrero,Abril,2019,1337,12,2019-04
+Guerrero,Mayo,2019,1534,12,2019-05
+Guerrero,Junio,2019,1318,12,2019-06
+Guerrero,Julio,2019,1478,12,2019-07
+Guerrero,Agosto,2019,1513,12,2019-08
+Guerrero,Septiembre,2019,1272,12,2019-09
+Guerrero,Octubre,2019,1508,12,2019-10
+Guerrero,Noviembre,2019,1439,12,2019-11
+Guerrero,Diciembre,2019,1160,12,2019-12
+Colima,Enero,2020,441,6,2020-01
+Colima,Febrero,2020,463,6,2020-02
+Colima,Marzo,2020,405,6,2020-03
+Colima,Abril,2020,396,6,2020-04
+Colima,Mayo,2020,435,6,2020-05
+Colima,Junio,2020,304,6,2020-06
