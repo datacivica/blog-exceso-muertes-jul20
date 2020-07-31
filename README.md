@@ -1,3 +1,3 @@
-# Blog XXXX
+# Blog _Dimensionando la tragedia: el exceso de mortalidad en 11 estados del país_ 
 
-Este repositorio contiene los datos y código necesarios para replicar el análisis realizado en el blog _nombre del blog_ publicado en XXXX
+Este repositorio contiene los datos y código necesarios para replicar el análisis realizado por _Data Cívica_ en el blog [_Dimensionando la tragedia: el exceso de mortalidad en 11 estados del país_](https://viral.datacivica.org/el-exceso-de-mortalidad) publicado en el sitio [VIRAL: México en tiempos de pandemia](https://viral.datacivica.org/).
